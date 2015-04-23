@@ -10,10 +10,8 @@ namespace TestRepo
     {
         static void Main(string[] args)
         {
-            //Comment2
-            Console.WriteLine("TFS 2013");
-
-            Console.WriteLine("Feature1 branch");
+            Console.WriteLine("Feature2 branch");
+            
 
             Console.ReadKey();
         }
