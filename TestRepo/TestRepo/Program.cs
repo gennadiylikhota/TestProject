@@ -10,9 +10,7 @@ namespace TestRepo
     {
         static void Main(string[] args)
         {
-
-            //New commnent
-            Console.WriteLine("TFS 2013");             
+            Console.WriteLine("TFS 2013"); 
 
             Console.ReadKey();
         }
